@@ -4,12 +4,17 @@
   <em>
     <b>I LIKE TO PROGRAM THINGS</b> <br>
     A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
-    and a <b>Data Science,</b>&nbsp;<img src="https://howdoiputthisgeekily.tumblr.com/post/123320564803/when-i-force-myself-to-stick-to-my-writing" width="36px">
-  </em>  
+    and a <b>Data Science</b> Enthusiast. <br>
+    Student of System Development on <a href=" http://www.fieb.org.br/senai/"><b>SENAI </b></a><b>SENAI</b>, And Computer Science on <a href="https://ossu.thinkific.com/"><b>Open Source Society University </b></a><br>
+    </em>  
 </p>
 
-
-
+- 🔭 Learning all about Open Source 
+- 🌱 I’m currently learning Data Science with Python
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.c`, `.cpp`, `.ipynb`
+- ⚡ Languages: python3, c, c++, javascript
+- 😄 I'm mostly active within the **ArchLinux Community**
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sairu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urias-machado/)](https://www.linkedin.com/in/urias-machado/) 
 
 
 ![Saiiru's github stats](https://github-readme-stats.vercel.app/api?username=Saiiru&show_icons=true&hide_border=true)
@@ -60,6 +65,5 @@
       @H@*`                    `*%#@  
      *`                            `* 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sairu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urias-machado/)](https://www.linkedin.com/in/urias-machado/) 
 
 **⭐️ From [Saiiru](https://github.com/Saiiru)**
