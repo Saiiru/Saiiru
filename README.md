@@ -5,7 +5,7 @@
     <b>I LIKE TO PROGRAM THINGS</b> <br>
     A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
     and a <b>Data Science</b> Enthusiast. <br>
-    Student of System Development on <a href=" http://www.fieb.org.br/senai/"><b>SENAI </b></a><b>SENAI</b>, And Computer Science on <a href="https://ossu.thinkific.com/"><b>Open Source Society University </b></a><br>
+    Student of System Development on <a href=" http://www.fieb.org.br/senai/"><b>SENAI </b></a>, And Computer Science on <a href="https://ossu.thinkific.com/"><b>Open Source Society University </b></a><br>
     </em>  
 </p>
 
