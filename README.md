@@ -4,6 +4,7 @@
   <em>
     <b>I LIKE TO PROGRAM THINGS</b> <br>
     A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+    and a <b>Data Science,</b>&nbsp;<img src="https://howdoiputthisgeekily.tumblr.com/post/123320564803/when-i-force-myself-to-stick-to-my-writing" width="36px">
   </em>  
 </p>
 
