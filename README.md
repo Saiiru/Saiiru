@@ -12,7 +12,7 @@
 - 🔭 Learning all about Open Source 
 - 🌱 I’m currently learning Data Science with Python
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.c`, `.cpp`, `.ipynb`,`.java`
-- ⚡ Languages: python3, c, c++, javascript
+- ⚡ Languages: python3, c, c++, javascript and java
 - 😄 I'm mostly active within the **ArchLinux Community**
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sairu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urias-machado/)](https://www.linkedin.com/in/urias-machado/) 
 
