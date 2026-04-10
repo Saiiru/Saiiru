@@ -1,35 +1,43 @@
-# Sairu
+# Saiiru
 
-Welcome to Sairu's repository!
+<div align="center">
+    <img src="https://img.shields.io/static/v1?label=Tech&message=Fullstack%20Developer&color=cyan&style=flat-square" />
+    <img src="https://img.shields.io/static/v1?label=Mindset&message=Backend-Heavy&color=pink&style=flat-square" />
+    <img src="https://img.shields.io/static/v1?label=OS&message=Arch%20Linux&color=cyan&style=flat-square" />
+</div>
 
-![Sairu Dragon Logo](./assets/sairu-dragon-logo.svg)
+<div align="center">
+    <svg height="40" width="400">
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="cyan" font-family="monospace" font-size="20">Loading...</text>
+    </svg>
+</div>
 
-## Badges
+## Loadout Core
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saiiru&show_icons=true&theme=dark)](https://github.com/Saiiru)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sairu-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/Sairu)](https://linkedin.com/in/Sairu)
-[![Email](https://img.shields.io/badge/Email-sairufsa@gmail.com-brightgreen?style=flat-square&logo=gmail&link=mailto:sairufsa@gmail.com)](mailto:sairufsa@gmail.com)
+<div align="center">
+<table>
+    <tr>
+        <td><img src="https://img.shields.io/static/v1?label=Languages&message=JavaScript%2C%20TypeScript%2C%20Python&color=green" /></td>
+        <td><img src="https://img.shields.io/static/v1?label=Frameworks&message=Spring%20Boot%2C%20Node.js%2C%20React%2C%20Angular%2C%20NestJS&color=orange" /></td>
+        <td><img src="https://img.shields.io/static/v1?label=Tooling/Infra&message=Docker%2C%20GitHub%20Actions%2C%20GCP&color=purple" /></td>
+    </tr>
+    <tr>
+        <td><img src="https://img.shields.io/static/v1?label=Databases&message=PostgreSQL%2C%20MongoDB&color=blue" /></td>
+        <td><img src="https://img.shields.io/static/v1?label=Dev%20Tools&message=Neovim%2C%20tmux%2C%20Linux/Arch&color=red" /></td>
+    </tr>
+</table>
+</div>
 
-## Tags
-
-- Tag 1
-- Tag 2
-- Tag 3
-
-## Code Example
-```python
-# Example code
-print('Hello, world!')
-```
-
-## Loadout Badges
-[![Loadout 1](https://example.com/loadout1.svg)](https://example.com/loadout1)
-[![Loadout 2](https://example.com/loadout2.svg)](https://example.com/loadout2)
+## Contact
+- [LinkedIn](https://linkedin.com/in/Sairu)
+- [Email](mailto:sairufsa@gmail.com)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saiiru&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saiiru&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Saiiru&theme=dark)
+![Contribution Snake](https://github.com/Saiiru/Saiiru/blob/main/docs/snake.svg)
 
-## Snake
-![Snake](https://github.com/Saiiru/Saiiru/blob/output/github-contribution-grid-snake.svg) 
+---
 
-Keep exploring and enjoy your time here!
+# Tags/Keywords
+fullstack developer, backend-heavy mindset, Arch Linux
