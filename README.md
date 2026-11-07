@@ -1,5 +1,9 @@
 # Saiiru
 
+> **Portfólio profissional:** [saiiru.github.io](https://saiiru.github.io/) · [Projetos e código](https://github.com/Saiiru?tab=repositories) · [Contato](mailto:sairufsa@gmail.com)
+
+Desenvolvedor com experiência em aplicações web (Capgemini, Infomakers e Agência Digital S/A), formação técnica em Desenvolvimento de Sistemas e Técnico em Eletromecânica em andamento no SENAI. Experimentos pessoais em LLMs, integração de ferramentas e eletrônica são apresentados com seu estado de validação, sem resultados comerciais não comprovados.
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=Tech&message=Fullstack%20Developer&color=00e5ff&style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/static/v1?label=Mindset&message=Backend--Heavy&color=ff4d6d&style=for-the-badge&labelColor=0d1117" />
