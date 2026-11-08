@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Sairu Blacksite — software, sistemas e IA aplicada</title>
+<desc id="desc">Cabeçalho de engenharia em fundo escuro com circuitos ciano, magenta e amarelo.</desc>
+<defs>
+ <pattern id="dots" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".8" fill="#82998f" opacity=".34"/></pattern>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1213"/><stop offset="1" stop-color="#17241e"/></linearGradient>
+ <linearGradient id="slash" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38efdb"/><stop offset="1" stop-color="#ef6fa9"/></linearGradient>
+</defs>
+<rect width="1200" height="330" fill="url(#panel)"/>
+<rect width="1200" height="330" fill="url(#dots)" opacity=".75"/>
+<path d="M0 0H1200V4H0Z" fill="#f7d548"/><path d="M0 324H1200V330H0Z" fill="url(#slash)"/>
+<path d="M0 34H1200M0 282H1200" stroke="#40584e" stroke-width="1"/>
+<g font-family="monospace" font-size="13" fill="#9ac7bc" letter-spacing="2">
+<text x="54" y="25">BLACKSITE / PERSONAL ENGINEERING LOG</text>
+<text x="835" y="25">FEIRA DE SANTANA · 2026</text>
+</g>
+<text x="54" y="178" font-family="DejaVu Sans,Arial,sans-serif" font-size="112" font-weight="900" letter-spacing="-8" fill="#f2f4e8">SAIRU<tspan fill="#42f4de">.</tspan></text>
+<path d="M53 187H684" stroke="#e9d24e" stroke-width="4"/>
+<path d="M53 187H130M306 187H372M528 187H684" stroke="#ef5d99" stroke-width="4"/>
+<text x="54" y="226" font-family="monospace" font-size="19" letter-spacing="2" fill="#b1d7cb">SOFTWARE  /  SYSTEMS  /  AI EXPERIMENTS</text>
+<text x="54" y="256" font-family="monospace" font-size="12" letter-spacing="1" fill="#a1b1a6">CÓDIGO QUE EU POSSO ABRIR, TESTAR E EXPLICAR.</text>
+<g transform="translate(850 51)" fill="none">
+ <circle cx="155" cy="111" r="98" stroke="#2f6661" stroke-width="1"/>
+ <circle cx="155" cy="111" r="67" stroke="#51d9d1" stroke-width="1.8" stroke-dasharray="9 7"/>
+ <circle cx="155" cy="111" r="29" stroke="#c9ddcd" stroke-width="1"/>
+ <path d="M0 48H72L111 84M0 175H62L120 123M308 46H240L208 81M308 180H248L205 141M155 0V81M155 142V225" stroke="#3c8583" stroke-width="2"/>
+ <path d="M155 82L169 111 155 140 141 111Z" stroke="#f2d247" stroke-width="3"/>
+ <g fill="#70e9d5"><circle cx="72" cy="48" r="5"/><circle cx="62" cy="175" r="5"/><circle cx="240" cy="46" r="5"/><circle cx="248" cy="180" r="5"/><circle cx="155" cy="16" r="5"/><circle cx="155" cy="210" r="5"/></g>
+ <g stroke="#ef60a1" stroke-width="2"><path d="M31 110h30M46 95v30"/><path d="M260 110h32M276 94v32"/></g>
+</g>
+<text x="900" y="296" font-family="monospace" fill="#86a99e" font-size="10" letter-spacing="1.7">DOCUMENT / BUILD / VERIFY</text>
+</svg>
