@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="profile-title profile-desc">
+<title id="profile-title">Sairu — Urias Machado Santos</title>
+<desc id="profile-desc">Desenvolvedor de software em Feira de Santana, Bahia. Experiência web na Capgemini, Infomakers e Agência Digital S/A. Técnico em Desenvolvimento de Sistemas concluído; Eletromecânica em andamento no SENAI Bahia.</desc>
+<rect width="900" height="520" fill="#0b1110"/>
+<path d="M0 0H900V520H0Z" fill="none" stroke="#a9beb3" stroke-opacity=".28"/>
+<path d="M0 0H116V6H0Z" fill="#ee6674"/>
+<g font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace">
+<text x="36" y="38" fill="#9ce8bf" font-size="12" letter-spacing="2">01 / IDENTIDADE</text>
+<text x="864" y="38" text-anchor="end" fill="#a9beb3" font-size="11" letter-spacing="1">FEIRA DE SANTANA / BA</text>
+<path d="M36 58H864" stroke="#a9beb3" stroke-opacity=".28"/>
+<text x="30" y="163" fill="#e3eee7" font-size="102" font-weight="700" letter-spacing="-7">SAIRU</text>
+<text x="36" y="203" fill="#9ce8bf" font-size="19">Urias Machado Santos</text>
+<g aria-hidden="true" transform="translate(688 91)">
+<path d="M0 0H136V12H12V112H136V124H0Z" fill="#9ce8bf" opacity=".16"/>
+<g transform="translate(8 0)"><path fill="#9ce8bf" d="M104 14H43L16 41V53L38 75H81L65 91H26L11 106H72L107 71V59L85 37H43L51 29H91Z"/><path fill="#0b1110" d="M30 55H83L94 66H41Z"/><path fill="#ee6674" d="M54 56H78L68 65H44Z"/></g>
+<path d="M-8 62H146M68 -10V134" stroke="#a9beb3" stroke-opacity=".2"/>
+<path d="M126 0H146V20M-10 104V124H10" fill="none" stroke="#ee6674" stroke-width="3"/>
+</g>
+<text x="36" y="264" fill="#e3eee7" font-size="23">Software, sistemas e vontade de entender.</text>
+<text x="36" y="308" fill="#a9beb3" font-size="17">Experiência em desenvolvimento web na</text>
+<text x="36" y="336" fill="#e3eee7" font-size="18">Capgemini · Infomakers · Agência Digital S/A</text>
+<path d="M36 366H864" stroke="#a9beb3" stroke-opacity=".28"/>
+<path d="M450 390V460" stroke="#a9beb3" stroke-opacity=".2"/>
+<text x="36" y="397" fill="#ee6674" font-size="11" letter-spacing="2">FORMAÇÃO</text>
+<text x="36" y="427" fill="#e3eee7" font-size="18">Desenvolvimento de Sistemas</text>
+<text x="36" y="452" fill="#a9beb3" font-size="14">Técnico concluído · SENAI</text>
+<text x="480" y="397" fill="#ee6674" font-size="11" letter-spacing="2">EM ANDAMENTO</text>
+<text x="480" y="427" fill="#e3eee7" font-size="18">Eletromecânica</text>
+<text x="480" y="452" fill="#a9beb3" font-size="14">Curso técnico · SENAI Bahia</text>
+<path d="M36 479H864" stroke="#a9beb3" stroke-opacity=".28"/>
+<text x="36" y="504" fill="#a9beb3" font-size="10" letter-spacing="1.5">DESENVOLVER / INVESTIGAR / APRENDER</text>
+<text x="864" y="504" text-anchor="end" fill="#9ce8bf" font-size="10">SAIRU / 01</text>
+</g>
+</svg>
