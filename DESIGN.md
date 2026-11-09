@@ -29,3 +29,6 @@ The profile includes no personal email and no project catalogue, project screens
 Both SVGs carry title/description text. The README provides descriptive image alt text and a collapsible plaintext bio and skills list, so small-screen readers and assistive technology do not depend on tiny text inside a scaled image. Links are limited to portfolio, LinkedIn and GitHub.
 
 Changes in this task are limited to README.md, this design note and the two authored SVG assets. Publishing remains a separate step.
+
+
+Current profile correction: the expandable plaintext biography/toolkit block has been removed at the user’s request. The README now contains only two SVG panels and navigation links. Meaningful image alt text remains. No projects are listed.
