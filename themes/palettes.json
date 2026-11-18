@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "description": "NIGHTFORGE: Matrix foundation with Jedi, Sith and Cyberpunk semantic modes",
+  "palettes": {
+    "matrix": {
+      "bg": "#060D09",
+      "panel": "#0A1510",
+      "line": "#31533F",
+      "dim": "#6F8A7A",
+      "fg": "#E6F2EA",
+      "accent": "#8AF0BB",
+      "signal": "#007A33",
+      "secondary": "#E0A526",
+      "name": "MATRIX // FOUNDATION"
+    },
+    "jedi": {
+      "bg": "#080F19",
+      "panel": "#101F2A",
+      "line": "#264963",
+      "dim": "#91AAB8",
+      "fg": "#F1F7FB",
+      "accent": "#86DBFF",
+      "signal": "#346BC6",
+      "secondary": "#D7BE7E",
+      "name": "JEDI // CLARITY"
+    },
+    "sith": {
+      "bg": "#10090E",
+      "panel": "#1D101B",
+      "line": "#57243C",
+      "dim": "#AA8498",
+      "fg": "#F5E9EF",
+      "accent": "#FF6075",
+      "signal": "#902B48",
+      "secondary": "#AD80FF",
+      "name": "SITH // FOCUS"
+    },
+    "cyber": {
+      "bg": "#080C11",
+      "panel": "#121D26",
+      "line": "#30505B",
+      "dim": "#91A4AE",
+      "fg": "#F1F5F5",
+      "accent": "#65FAFF",
+      "signal": "#2F8997",
+      "secondary": "#FC4A9B",
+      "name": "CYBERPUNK // SIGNAL"
+    }
+  }
+}

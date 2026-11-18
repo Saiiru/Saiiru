@@ -1,34 +1,45 @@
-# GitHub profile — Sairu
+# GitHub profile — NIGHTFORGE / SAIRU
 
-Updated 2026-11-08. Surface mode: Experience.
+**Revisão:** 2026-11-18. **Escopo:** branch de revisão; não modifica o sistema Artix nem o design system Nightwatch.
 
-## Direction
+## Origem e atribuição
 
-A short, authored technical profile: two full-width SVG panels, three direct links and a collapsible text equivalent. The composition is deliberately quiet, with a large identity, short biography, factual education and an uncluttered toolkit.
+Fonte visual analisada: [mille-okws/mille-okws](https://github.com/mille-okws/mille-okws). O perfil usa painéis SVG estáticos para identidade, linguagem, operações numeradas, cartões de projeto e pesquisa. A referência não declara licença no repositório consultado, portanto **nenhum SVG original foi copiado ou republicado**. Recriamos uma composição original com a mesma organização conceitual, usando esquema tático, fichas, painéis e cores observadas.
 
-Reference: [mille-okws/mille-okws](https://github.com/mille-okws/mille-okws/tree/main), specifically the profile and languages SVG panels. Their use of authored dark technical panels informed the format. All Sairu artwork, layout, typography choices and text were made afresh; no reference paths or artwork were copied.
+Outros projetos da autora consultados:
+- [StudyGrandPrix](https://github.com/mille-okws/StudyGrandPrix): tema por equipe; CSS com #070a0a, #00d7b9, #35ffe3, #ff4d4d e #ffb020.
+- [pestinha](https://github.com/mille-okws/pestinha): UI PySide6, controles/estados; verde #63e56f, superfícies #0c1f13 e foco legível.
+- [MushroomCloud](https://github.com/mille-okws/MushroomCloud): HUD escuro/verde com visualização científica.
+- [NokiaOS](https://github.com/mille-okws/NokiaOS): menu embarcado monocromático e estados simples.
+- [ControleDeEdital](https://github.com/mille-okws/ControleDeEdital): HTML/CSS preto-e-branco com cartões de progresso.
+- [MascarenhasMarketing](https://github.com/mille-okws/MascarenhasMarketing): bento e landing page escura; coral #ff6a3d e violeta #7b5cff.
 
-## System
+Esses trabalhos são referências de padrões de UI, **não bibliotecas prontas ou código incorporado**.
 
-- Charcoal: #0b1110
-- Mint: #9ce8bf
-- Coral: #ee6674
-- Ivory: #e3eee7
-- Muted: #a9beb3
-- Typography: local monospace fallbacks; no external font request.
-- Profile: 900 × 520. Toolkit: 900 × 180. Both scale through the SVG viewBox.
-- Original geometry: open registration frame and angular S, simple rules and restrained edge signals.
-- No animation, script, foreignObject, external resource, telemetry or badge service.
+## Decisões
 
-## Content and accessibility
+- 900 px de largura base para painéis principais; SVGs estáticos responsivos no GitHub com `viewBox`.
+- Perfil público com nome, áreas e SENAI em andamento; não inventar experiência, métricas, resultados, conclusão de integração ou certificação.
+- Quatro projetos com URLs existentes: OpenKORA, Nightwatch UI, Neovim e TFT Test.
+- Matrix como paleta principal. Jedi, Sith e Cyberpunk como modos com tokens reutilizáveis.
+- Sem JavaScript, `foreignObject`, serviços externos, imagens remotas, fontes carregadas por rede ou animações obrigatórias no README.
+- Não atribuir métricas, builds ou telemetria aos SVGs. Estados de projeto são descritivos.
+- Textos alternativos no README; SVGs com `title`. Os cartões são links reais, mas a documentação mais detalhada deve ficar nos repositórios.
+- Alteração isolada nesta branch para revisão antes de mesclar.
 
-Use professional web experience without invented rank or outcomes. Java/Spring, TypeScript/Node, React/Angular and SQL are the principal skills; Git/Linux/Neovim are tools. Python and LLMs are explicitly experimentation.
+## Cores (extraídas do perfil de referência)
 
-The profile includes no personal email and no project catalogue, project screenshots or project listings. PROJECTS.md remains untouched as historical repository content and is not linked from the README. The old header asset is retained but not used.
+`#060d09` fundo; `#0a1510` superfície; `#31533f` borda; `#6f8a7a` texto secundário; `#e6f2ea` texto principal; `#8af0bb` acento; `#007a33` sinal; `#e0a526` âmbar.
 
-Both SVGs carry title/description text. The README provides descriptive image alt text and a collapsible plaintext bio and skills list, so small-screen readers and assistive technology do not depend on tiny text inside a scaled image. Links are limited to portfolio, LinkedIn and GitHub.
+## Modos
 
-Changes in this task are limited to README.md, this design note and the two authored SVG assets. Publishing remains a separate step.
+Consultar [THEMES.md](THEMES.md), [palettes.json](themes/palettes.json) e [tokens.css](themes/tokens.css). Esses arquivos são documentação portátil; sua presença **não modifica automaticamente** o Quickshell, Neovim ou Nightwatch UI.
 
+## Verificação
 
-Current profile correction: the expandable plaintext biography/toolkit block has been removed at the user’s request. The README now contains only two SVG panels and navigation links. Meaningful image alt text remains. No projects are listed.
+- Validar sintaxe XML dos SVGs.
+- Conferir que todos os links de projetos existem e que os caminhos de imagem são locais.
+- Renderizar prévias dos SVGs e verificar legibilidade no desktop e em largura reduzida.
+- Revisar nomes, estado real de projetos e contrastes visuais antes da integração.
+
+**Atenção:** este visual é inspirado em universos de ficção, sem usar logomarcas ou ícones oficiais.
