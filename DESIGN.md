@@ -1,45 +1,32 @@
-# GitHub profile — NIGHTFORGE / SAIRU
+# Perfil GitHub — SAIRU
 
-**Revisão:** 2026-11-18. **Escopo:** branch de revisão; não modifica o sistema Artix nem o design system Nightwatch.
+Atualização: 2026-11-18. Revisão da PR #4 após feedback.
 
-## Origem e atribuição
+## Estrutura enxuta
 
-Fonte visual analisada: [mille-okws/mille-okws](https://github.com/mille-okws/mille-okws). O perfil usa painéis SVG estáticos para identidade, linguagem, operações numeradas, cartões de projeto e pesquisa. A referência não declara licença no repositório consultado, portanto **nenhum SVG original foi copiado ou republicado**. Recriamos uma composição original com a mesma organização conceitual, usando esquema tático, fichas, painéis e cores observadas.
+Mesmo princípio de organização visual observado em [mille-okws/mille-okws](https://github.com/mille-okws/mille-okws): README compacto e painéis SVG agrupados em uma única pasta `assets`. Não usar uma pasta para cada tema; não tratar o perfil como repositório de dotfiles.
 
-Outros projetos da autora consultados:
-- [StudyGrandPrix](https://github.com/mille-okws/StudyGrandPrix): tema por equipe; CSS com #070a0a, #00d7b9, #35ffe3, #ff4d4d e #ffb020.
-- [pestinha](https://github.com/mille-okws/pestinha): UI PySide6, controles/estados; verde #63e56f, superfícies #0c1f13 e foco legível.
-- [MushroomCloud](https://github.com/mille-okws/MushroomCloud): HUD escuro/verde com visualização científica.
-- [NokiaOS](https://github.com/mille-okws/NokiaOS): menu embarcado monocromático e estados simples.
-- [ControleDeEdital](https://github.com/mille-okws/ControleDeEdital): HTML/CSS preto-e-branco com cartões de progresso.
-- [MascarenhasMarketing](https://github.com/mille-okws/MascarenhasMarketing): bento e landing page escura; coral #ff6a3d e violeta #7b5cff.
+O perfil contém: `README.md`, `DESIGN.md`, `assets/profile.svg`, `assets/languages.svg`, `assets/project-01.svg`, `assets/project-02.svg` e `assets/dragon.svg`. Nenhuma imagem ou script externo é necessário.
 
-Esses trabalhos são referências de padrões de UI, **não bibliotecas prontas ou código incorporado**.
+## Identidade
 
-## Decisões
+Nome público: **SAIRU**. Forma visual: tipografia técnica e dragão cyberpunk vetorial próprio. A paleta é uma composição grafite/Matrix com verde `#8AF0BB`, ciano `#65EAF0`, rosa-carmesim `#F56C86` e âmbar `#E0BC7E`.
 
-- 900 px de largura base para painéis principais; SVGs estáticos responsivos no GitHub com `viewBox`.
-- Perfil público com nome, áreas e SENAI em andamento; não inventar experiência, métricas, resultados, conclusão de integração ou certificação.
-- Quatro projetos com URLs existentes: OpenKORA, Nightwatch UI, Neovim e TFT Test.
-- Matrix como paleta principal. Jedi, Sith e Cyberpunk como modos com tokens reutilizáveis.
-- Sem JavaScript, `foreignObject`, serviços externos, imagens remotas, fontes carregadas por rede ou animações obrigatórias no README.
-- Não atribuir métricas, builds ou telemetria aos SVGs. Estados de projeto são descritivos.
-- Textos alternativos no README; SVGs com `title`. Os cartões são links reais, mas a documentação mais detalhada deve ficar nos repositórios.
-- Alteração isolada nesta branch para revisão antes de mesclar.
+Este é um perfil de pessoa, não um produto chamado NIGHTFORGE. Nightforge é a workstation; CyberArch é o sistema visual da workstation; Glyph é a interface existente.
 
-## Cores (extraídas do perfil de referência)
+A direção é inspirada por Matrix, Jedi/Sith e cyberpunk, sem logos, personagens ou imagens oficiais. Os SVGs são autorais e não copiam arte do perfil mille-okws; a referência não declara licença aplicável aos seus próprios SVGs.
 
-`#060d09` fundo; `#0a1510` superfície; `#31533f` borda; `#6f8a7a` texto secundário; `#e6f2ea` texto principal; `#8af0bb` acento; `#007a33` sinal; `#e0a526` âmbar.
+## Projetos exibidos
 
-## Modos
+1. [Nightwatch UI](https://github.com/Saiiru/nightwatch-ui) — repositório público com código, demonstração, design contract e testes descritos.
+2. [Ada Commerce](https://github.com/Saiiru/java-order-management-cli) — repositório público com CLI Java, documentação, execução e testes JUnit descritos.
 
-Consultar [THEMES.md](THEMES.md), [palettes.json](themes/palettes.json) e [tokens.css](themes/tokens.css). Esses arquivos são documentação portátil; sua presença **não modifica automaticamente** o Quickshell, Neovim ou Nightwatch UI.
+Não exibir `openkora` (URL atual não encontrada), `neovim` e `tft-test` (privados), nem demos sem fluxo funcional documentado. Os links não devem ser entendidos como deploy de produção ou certificação; verificar README/CI separadamente.
 
-## Verificação
+## Acessibilidade e manutenção
 
-- Validar sintaxe XML dos SVGs.
-- Conferir que todos os links de projetos existem e que os caminhos de imagem são locais.
-- Renderizar prévias dos SVGs e verificar legibilidade no desktop e em largura reduzida.
-- Revisar nomes, estado real de projetos e contrastes visuais antes da integração.
+SVGs estáticos, `viewBox`, título acessível e `alt` descritivo. Sem JavaScript remoto, animações ou telemetria. O README não anuncia experiência, qualificações ou realizações sem evidência.
 
-**Atenção:** este visual é inspirado em universos de ficção, sem usar logomarcas ou ícones oficiais.
+## Ambiente e editor
+
+O contrato de temas aplicáveis a Glyph, Kitty e Neovim Lab pertence ao repositório privado `nightforge-dotfiles`, não ao perfil público. Isso evita sincronização paralela de fontes de verdade.
