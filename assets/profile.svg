@@ -1,34 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="profile-title profile-desc">
-<title id="profile-title">Sairu — Urias Machado Santos</title>
-<desc id="profile-desc">Desenvolvedor de software em Feira de Santana, Bahia. Experiência web na Capgemini, Infomakers e Agência Digital S/A. Técnico em Desenvolvimento de Sistemas concluído; Eletromecânica em andamento no SENAI Bahia.</desc>
-<rect width="900" height="520" fill="#0b1110"/>
-<path d="M0 0H900V520H0Z" fill="none" stroke="#a9beb3" stroke-opacity=".28"/>
-<path d="M0 0H116V6H0Z" fill="#ee6674"/>
-<g font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace">
-<text x="36" y="38" fill="#9ce8bf" font-size="12" letter-spacing="2">01 / IDENTIDADE</text>
-<text x="864" y="38" text-anchor="end" fill="#a9beb3" font-size="11" letter-spacing="1">FEIRA DE SANTANA / BA</text>
-<path d="M36 58H864" stroke="#a9beb3" stroke-opacity=".28"/>
-<text x="30" y="163" fill="#e3eee7" font-size="102" font-weight="700" letter-spacing="-7">SAIRU</text>
-<text x="36" y="203" fill="#9ce8bf" font-size="19">Urias Machado Santos</text>
-<g aria-hidden="true" transform="translate(688 91)">
-<path d="M0 0H136V12H12V112H136V124H0Z" fill="#9ce8bf" opacity=".16"/>
-<g transform="translate(8 0)"><path fill="#9ce8bf" d="M104 14H43L16 41V53L38 75H81L65 91H26L11 106H72L107 71V59L85 37H43L51 29H91Z"/><path fill="#0b1110" d="M30 55H83L94 66H41Z"/><path fill="#ee6674" d="M54 56H78L68 65H44Z"/></g>
-<path d="M-8 62H146M68 -10V134" stroke="#a9beb3" stroke-opacity=".2"/>
-<path d="M126 0H146V20M-10 104V124H10" fill="none" stroke="#ee6674" stroke-width="3"/>
-</g>
-<text x="36" y="264" fill="#e3eee7" font-size="23">Software, sistemas e vontade de entender.</text>
-<text x="36" y="308" fill="#a9beb3" font-size="17">Experiência em desenvolvimento web na</text>
-<text x="36" y="336" fill="#e3eee7" font-size="18">Capgemini · Infomakers · Agência Digital S/A</text>
-<path d="M36 366H864" stroke="#a9beb3" stroke-opacity=".28"/>
-<path d="M450 390V460" stroke="#a9beb3" stroke-opacity=".2"/>
-<text x="36" y="397" fill="#ee6674" font-size="11" letter-spacing="2">FORMAÇÃO</text>
-<text x="36" y="427" fill="#e3eee7" font-size="18">Desenvolvimento de Sistemas</text>
-<text x="36" y="452" fill="#a9beb3" font-size="14">Técnico concluído · SENAI</text>
-<text x="480" y="397" fill="#ee6674" font-size="11" letter-spacing="2">EM ANDAMENTO</text>
-<text x="480" y="427" fill="#e3eee7" font-size="18">Eletromecânica</text>
-<text x="480" y="452" fill="#a9beb3" font-size="14">Curso técnico · SENAI Bahia</text>
-<path d="M36 479H864" stroke="#a9beb3" stroke-opacity=".28"/>
-<text x="36" y="504" fill="#a9beb3" font-size="10" letter-spacing="1.5">DESENVOLVER / INVESTIGAR / APRENDER</text>
-<text x="864" y="504" text-anchor="end" fill="#9ce8bf" font-size="10">SAIRU / 01</text>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="svgtitle" width="900" height="438" viewBox="0 0 900 438"><title id="svgtitle">Sairu: identidade profissional com marca de dragão cyberpunk, grafite e verde Matrix.</title><g font-family="DejaVu Sans Mono,Liberation Mono,Consolas,monospace"><defs><pattern id="bggrid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#355345" stroke-opacity=".22"/></pattern></defs><rect x="0" y="0" width="900" height="438" rx="0" fill="#060D09" stroke="none"/><rect x="0" y="0" width="900" height="438" rx="0" fill="url(#bggrid)" stroke="none"/><rect x="0.5" y="0.5" width="899" height="437" rx="0" fill="none" stroke="#274137"/><rect x="0" y="0" width="900" height="5" rx="0" fill="#007A33" stroke="none"/><path d="M16 21L35 21" stroke="#8AF0BB" stroke-width="3" fill="none"/><path d="M16 21L16 43" stroke="#8AF0BB" stroke-width="3" fill="none"/><path d="M884 402L884 421" stroke="#8AF0BB" stroke-width="3" fill="none"/><path d="M865 421L884 421" stroke="#8AF0BB" stroke-width="3" fill="none"/><text x="35" y="39" fill="#8AF0BB" font-size="11" font-weight="700" letter-spacing="2">PUBLIC FILE  /  SAIRU</text><text x="862" y="39" fill="#95ADA2" font-size="10" text-anchor="end" letter-spacing="1">SOFTWARE · SYSTEMS · ELECTROMECHANICS</text><path d="M35 52L865 52" stroke="#274137" stroke-width="1" fill="none"/><text x="35" y="169" fill="#EAF5EE" font-size="106" font-weight="700" letter-spacing="-7">SAIRU</text><text x="42" y="205" fill="#8AF0BB" font-size="19" font-weight="700" letter-spacing="1">DESENVOLVIMENTO DE SOFTWARE</text><text x="42" y="244" fill="#EAF5EE" font-size="15">Engenharia de software, sistemas embarcados</text><text x="42" y="266" fill="#95ADA2" font-size="15">e aprendizagem contínua em eletromecânica.</text><rect x="40" y="295" width="518" height="1" rx="0" fill="#31533F" stroke="none"/><text x="42" y="326" fill="#95ADA2" font-size="10" letter-spacing="1">BASE</text><text x="168" y="326" fill="#EAF5EE" font-size="12" font-weight="700">FEIRA DE SANTANA / BA</text><text x="42" y="355" fill="#95ADA2" font-size="10" letter-spacing="1">FORMAÇÃO</text><text x="168" y="355" fill="#EAF5EE" font-size="12" font-weight="700">SENAI / ELETROMECÂNICA</text><text x="42" y="384" fill="#95ADA2" font-size="10" letter-spacing="1">FOCO</text><text x="168" y="384" fill="#EAF5EE" font-size="12" font-weight="700">SOFTWARE / LABORATÓRIO</text><rect x="590" y="69" width="277" height="302" rx="0" fill="#0A1510" stroke="#31533F"/><g transform="translate(587 63) scale(.78)">
+<defs>
+  <linearGradient id="metal" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#173A3E"/><stop offset=".48" stop-color="#0D1A20"/><stop offset="1" stop-color="#315F5A"/>
+  </linearGradient>
+  <linearGradient id="scales" x1="0" x2="1"><stop stop-color="#8AF0BB"/><stop offset="1" stop-color="#63BFC6"/></linearGradient>
+</defs>
+<path d="M127 289C59 291 27 244 52 202C70 171 118 164 143 194C160 218 142 250 120 247C103 245 98 221 112 210" fill="none" stroke="#1F4F48" stroke-width="23" stroke-linecap="square"/>
+<path d="M125 288C55 290 28 239 59 205C76 183 106 180 129 199" fill="none" stroke="#8AF0BB" stroke-width="3" opacity=".7"/>
+<path d="M137 289C197 296 238 264 224 216C216 181 232 148 271 142" fill="none" stroke="url(#metal)" stroke-width="55" stroke-linecap="butt"/>
+<path d="M137 289C199 293 235 256 219 216C210 185 229 151 270 144" fill="none" stroke="#8AF0BB" stroke-width="3" stroke-dasharray="18 11" opacity=".85"/>
+<path d="M204 182L208 149L227 131L235 83L256 118L279 77L286 122L307 134L329 150L351 157L331 172L319 183L340 204L361 216L314 214L299 229L285 209L254 217L242 200L218 202Z" fill="url(#metal)" stroke="#8AF0BB" stroke-width="5" stroke-linejoin="miter"/>
+<path d="M231 135L240 108L250 138L265 129L279 100L281 144" fill="none" stroke="#65EAF0" stroke-width="3"/>
+<path d="M302 160L320 166L329 166L319 173L301 175L292 184L277 183" fill="none" stroke="#91D9E7" stroke-width="2.4"/>
+<path d="M289 192L321 205L309 205L298 198L275 207" fill="none" stroke="#8AF0BB" stroke-width="2.8"/>
+<path d="M286 181L316 183" stroke="#F56C86" stroke-width="3"/>
+<path d="M268 157L295 151L286 170L273 169Z" fill="#F56C86"/>
+<path d="M272 159L283 156" stroke="#FFFFFF" stroke-width="1.6"/>
+<path d="M305 152L310 150" stroke="#65EAF0" stroke-width="3"/>
+<path d="M256 185L242 171L247 196L228 212" fill="none" stroke="#65EAF0" stroke-width="3"/>
+<path d="M322 213L308 246L280 259" fill="none" stroke="#65EAF0" stroke-width="3"/>
+<path d="M346 218L330 248L315 254" fill="none" stroke="#8AF0BB" stroke-width="2"/>
+<path d="M169 270L155 251M197 260L185 242M212 225L191 214" stroke="#65EAF0" stroke-width="4"/>
+<g fill="#8AF0BB"><circle cx="160" cy="281" r="3"/><circle cx="183" cy="270" r="3"/><circle cx="196" cy="250" r="3"/></g>
+</g><text x="726" y="392" fill="#8AF0BB" font-size="10" text-anchor="middle" letter-spacing="2">DRAGON / CIRCUIT MARK</text><rect x="0" y="414" width="900" height="24" rx="0" fill="#007A33" stroke="none"/><text x="450" y="431" fill="#FFFFFF" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">SAIRU     /     MATRIX  •  JEDI  •  SITH  •  CYBER</text></g></svg>

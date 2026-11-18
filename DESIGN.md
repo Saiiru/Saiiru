@@ -1,34 +1,32 @@
-# GitHub profile — Sairu
+# Perfil GitHub — SAIRU
 
-Updated 2026-11-08. Surface mode: Experience.
+Atualização: 2026-11-18. Revisão da PR #4 após feedback.
 
-## Direction
+## Estrutura enxuta
 
-A short, authored technical profile: two full-width SVG panels, three direct links and a collapsible text equivalent. The composition is deliberately quiet, with a large identity, short biography, factual education and an uncluttered toolkit.
+Mesmo princípio de organização visual observado em [mille-okws/mille-okws](https://github.com/mille-okws/mille-okws): README compacto e painéis SVG agrupados em uma única pasta `assets`. Não usar uma pasta para cada tema; não tratar o perfil como repositório de dotfiles.
 
-Reference: [mille-okws/mille-okws](https://github.com/mille-okws/mille-okws/tree/main), specifically the profile and languages SVG panels. Their use of authored dark technical panels informed the format. All Sairu artwork, layout, typography choices and text were made afresh; no reference paths or artwork were copied.
+O perfil contém: `README.md`, `DESIGN.md`, `assets/profile.svg`, `assets/languages.svg`, `assets/project-01.svg`, `assets/project-02.svg` e `assets/dragon.svg`. Nenhuma imagem ou script externo é necessário.
 
-## System
+## Identidade
 
-- Charcoal: #0b1110
-- Mint: #9ce8bf
-- Coral: #ee6674
-- Ivory: #e3eee7
-- Muted: #a9beb3
-- Typography: local monospace fallbacks; no external font request.
-- Profile: 900 × 520. Toolkit: 900 × 180. Both scale through the SVG viewBox.
-- Original geometry: open registration frame and angular S, simple rules and restrained edge signals.
-- No animation, script, foreignObject, external resource, telemetry or badge service.
+Nome público: **SAIRU**. Forma visual: tipografia técnica e dragão cyberpunk vetorial próprio. A paleta é uma composição grafite/Matrix com verde `#8AF0BB`, ciano `#65EAF0`, rosa-carmesim `#F56C86` e âmbar `#E0BC7E`.
 
-## Content and accessibility
+Este é um perfil de pessoa, não um produto chamado NIGHTFORGE. Nightforge é a workstation; CyberArch é o sistema visual da workstation; Glyph é a interface existente.
 
-Use professional web experience without invented rank or outcomes. Java/Spring, TypeScript/Node, React/Angular and SQL are the principal skills; Git/Linux/Neovim are tools. Python and LLMs are explicitly experimentation.
+A direção é inspirada por Matrix, Jedi/Sith e cyberpunk, sem logos, personagens ou imagens oficiais. Os SVGs são autorais e não copiam arte do perfil mille-okws; a referência não declara licença aplicável aos seus próprios SVGs.
 
-The profile includes no personal email and no project catalogue, project screenshots or project listings. PROJECTS.md remains untouched as historical repository content and is not linked from the README. The old header asset is retained but not used.
+## Projetos exibidos
 
-Both SVGs carry title/description text. The README provides descriptive image alt text and a collapsible plaintext bio and skills list, so small-screen readers and assistive technology do not depend on tiny text inside a scaled image. Links are limited to portfolio, LinkedIn and GitHub.
+1. [Nightwatch UI](https://github.com/Saiiru/nightwatch-ui) — repositório público com código, demonstração, design contract e testes descritos.
+2. [Ada Commerce](https://github.com/Saiiru/java-order-management-cli) — repositório público com CLI Java, documentação, execução e testes JUnit descritos.
 
-Changes in this task are limited to README.md, this design note and the two authored SVG assets. Publishing remains a separate step.
+Não exibir `openkora` (URL atual não encontrada), `neovim` e `tft-test` (privados), nem demos sem fluxo funcional documentado. Os links não devem ser entendidos como deploy de produção ou certificação; verificar README/CI separadamente.
 
+## Acessibilidade e manutenção
 
-Current profile correction: the expandable plaintext biography/toolkit block has been removed at the user’s request. The README now contains only two SVG panels and navigation links. Meaningful image alt text remains. No projects are listed.
+SVGs estáticos, `viewBox`, título acessível e `alt` descritivo. Sem JavaScript remoto, animações ou telemetria. O README não anuncia experiência, qualificações ou realizações sem evidência.
+
+## Ambiente e editor
+
+O contrato de temas aplicáveis a Glyph, Kitty e Neovim Lab pertence ao repositório privado `nightforge-dotfiles`, não ao perfil público. Isso evita sincronização paralela de fontes de verdade.

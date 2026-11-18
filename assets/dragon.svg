@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360" role="img" aria-labelledby="dragon-title"><title id="dragon-title">Dragão CyberArch: símbolo geométrico tecnológico com circuitos e olho vermelho.</title>
+<defs>
+  <linearGradient id="metal" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#173A3E"/><stop offset=".48" stop-color="#0D1A20"/><stop offset="1" stop-color="#315F5A"/>
+  </linearGradient>
+  <linearGradient id="scales" x1="0" x2="1"><stop stop-color="#8AF0BB"/><stop offset="1" stop-color="#63BFC6"/></linearGradient>
+</defs>
+<path d="M127 289C59 291 27 244 52 202C70 171 118 164 143 194C160 218 142 250 120 247C103 245 98 221 112 210" fill="none" stroke="#1F4F48" stroke-width="23" stroke-linecap="square"/>
+<path d="M125 288C55 290 28 239 59 205C76 183 106 180 129 199" fill="none" stroke="#8AF0BB" stroke-width="3" opacity=".7"/>
+<path d="M137 289C197 296 238 264 224 216C216 181 232 148 271 142" fill="none" stroke="url(#metal)" stroke-width="55" stroke-linecap="butt"/>
+<path d="M137 289C199 293 235 256 219 216C210 185 229 151 270 144" fill="none" stroke="#8AF0BB" stroke-width="3" stroke-dasharray="18 11" opacity=".85"/>
+<path d="M204 182L208 149L227 131L235 83L256 118L279 77L286 122L307 134L329 150L351 157L331 172L319 183L340 204L361 216L314 214L299 229L285 209L254 217L242 200L218 202Z" fill="url(#metal)" stroke="#8AF0BB" stroke-width="5" stroke-linejoin="miter"/>
+<path d="M231 135L240 108L250 138L265 129L279 100L281 144" fill="none" stroke="#65EAF0" stroke-width="3"/>
+<path d="M302 160L320 166L329 166L319 173L301 175L292 184L277 183" fill="none" stroke="#91D9E7" stroke-width="2.4"/>
+<path d="M289 192L321 205L309 205L298 198L275 207" fill="none" stroke="#8AF0BB" stroke-width="2.8"/>
+<path d="M286 181L316 183" stroke="#F56C86" stroke-width="3"/>
+<path d="M268 157L295 151L286 170L273 169Z" fill="#F56C86"/>
+<path d="M272 159L283 156" stroke="#FFFFFF" stroke-width="1.6"/>
+<path d="M305 152L310 150" stroke="#65EAF0" stroke-width="3"/>
+<path d="M256 185L242 171L247 196L228 212" fill="none" stroke="#65EAF0" stroke-width="3"/>
+<path d="M322 213L308 246L280 259" fill="none" stroke="#65EAF0" stroke-width="3"/>
+<path d="M346 218L330 248L315 254" fill="none" stroke="#8AF0BB" stroke-width="2"/>
+<path d="M169 270L155 251M197 260L185 242M212 225L191 214" stroke="#65EAF0" stroke-width="4"/>
+<g fill="#8AF0BB"><circle cx="160" cy="281" r="3"/><circle cx="183" cy="270" r="3"/><circle cx="196" cy="250" r="3"/></g>
+</svg>

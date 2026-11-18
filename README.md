@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="assets/profile.svg" alt="Sairu — Urias Machado Santos. Desenvolvedor de software, com experiência web e formação técnica." width="100%" />
+  <img src="assets/profile.svg" width="100%" alt="Sairu. Desenvolvedor de software, estudante de Eletromecânica no SENAI e interessado em sistemas embarcados. Identidade com um dragão vetorial cyberpunk." />
 </p>
 
 <p align="center">
-  <img src="assets/languages.svg" alt="Toolkit: Java, Spring, TypeScript, Node.js, React, Angular e SQL. Git, Linux e Neovim. Python e LLMs em experimentação." width="100%" />
+  <img src="assets/languages.svg" width="100%" alt="Stack: Java e Spring, TypeScript e Node, React e Angular, SQL, Git, Linux, Neovim e tmux; Python e IA em estudo." />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Saiiru/nightwatch-ui"><img src="assets/project-01.svg" width="49%" alt="Nightwatch UI — biblioteca de componentes web com princípios de portabilidade e acessibilidade." /></a>
+  <a href="https://github.com/Saiiru/java-order-management-cli"><img src="assets/project-02.svg" width="49%" alt="Ada Commerce — CLI educacional Java para pedidos e estoque com JUnit e Gradle." /></a>
 </p>
 
 <p align="center">
